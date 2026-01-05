@@ -9,7 +9,7 @@
   <h2>💪 Skill </h2>
   <div>Learning can be tough, but sticking with it is what makes the difference.</div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,redis,rabbitmq,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,rabbitmq,docker,kubernetes" />
   </a>
 </div>
 
