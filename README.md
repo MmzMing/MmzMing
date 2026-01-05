@@ -6,14 +6,9 @@
   <img src="/3E437F1C6B2FD8E54ACA429E7FDBE63D.gif" alt="Metrics" style="display: block; margin: 0 auto; width: 50%; height: 50%;" />
   <h2>💪 Skill </h2>
   <div>Learning can be tough, but sticking with it is what makes the difference.</div>
-</div>
-<!-- 技术栈徽章（复用你之前的居中代码） -->
-<div align="center" style="letter-spacing: 2px; margin: 20px 0;">
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,redis,rabbitmq,docker,kubernetes" />
   </a>
-</p>
 </div>
 
 <div align="center">
