@@ -2,7 +2,7 @@
 
 ### 🥹学习很苦，胜在坚持
 <div align="center">
-  ![Metrics](/3E437F1C6B2FD8E54ACA429E7FDBE63D.gif)
+<img src="/3E437F1C6B2FD8E54ACA429E7FDBE63D.gif" alt="Metrics" style="display: block; margin: 0 auto;" />
 </div>
 
 
