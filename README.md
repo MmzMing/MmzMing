@@ -11,7 +11,7 @@
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,java,spring,redis" />
+    <img src="https://skillicons.dev/icons?i=java,spring,redis,rabbitmq,docker,kubernetes" />
   </a>
 </p>
 </div>
