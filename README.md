@@ -6,6 +6,7 @@
   <img src="/3E437F1C6B2FD8E54ACA429E7FDBE63D.gif" alt="Metrics" style="display: block; margin: 0 auto; width: 50%; height: 50%;" />
   <h2>💪 Skill </h2>
   <div>Learning can be tough, but sticking with it is what makes the difference.</div>
+</div>
 <!-- 技术栈徽章（复用你之前的居中代码） -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
   <!-- 前端 -->
@@ -22,7 +23,6 @@
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <!-- 趣味标签 -->
   <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" />
-</div>
 </div>
 
 <div align="center">
