@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="/3E437F1C6B2FD8E54ACA429E7FDBE63D.gif" alt="Metrics" style="display: block; margin: 0 auto; width: 50%; height: 50%;" />
-  <h3>💪 Skill </h3>
+  <h2>💪 Skill </h2>
   <div>Learning can be tough, but sticking with it is what makes the difference.</div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,rabbitmq,docker,kubernetes" />
