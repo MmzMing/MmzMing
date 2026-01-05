@@ -3,8 +3,9 @@
 <div align="center">
 <h2>🥹学习很苦，胜在坚持</h2>
 <img src="/3E437F1C6B2FD8E54ACA429E7FDBE63D.gif" alt="Metrics" style="display: block; margin: 0 auto;" />
-</div>
 
 
+<div align="center">
 <h2>🐍 贡献 蛇</h2>
+</div>
 ![](https://raw.githubusercontent.com/MmzMing/MmzMing/output/github-contribution-grid-snake-dark.svg) 
