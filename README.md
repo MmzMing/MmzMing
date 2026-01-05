@@ -9,19 +9,11 @@
 </div>
 <!-- 技术栈徽章（复用你之前的居中代码） -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
-  <div>
-    <a href="https:///blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/CSDN-文艺倾年-red" /></a>&emsp;
-    <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/WeChat-artboy_lyh-07c160" /></a>&emsp;
-    <img src="https://img.shields.io/badge/QQ-1531137510-green?logo=tencentqq" />&emsp;
-    <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=itxaiohanglover&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 </div>
 
 <div align="center">
