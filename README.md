@@ -6,5 +6,5 @@
 ### 💻 学习
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MmzMing&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 学习很苦，胜在坚持🤕
+### 🥹学习很苦，胜在坚持
 ![Metrics](/3E437F1C6B2FD8E54ACA429E7FDBE63D.gif)
